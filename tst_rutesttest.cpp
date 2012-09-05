@@ -24,7 +24,7 @@ RuTestTest::RuTestTest()
 {
 }
 
-
+//это тест не подходит
 void RuTestTest::testCase1()
 {
     QLineEdit lineEdit;
